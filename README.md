@@ -8,6 +8,6 @@ https://youtube.com/shorts/ltIXgFceDX0
 
 # Board Pictures
 
-![Figure 1](img.jpeg)
+![Figure 1](IMG_2417.jpeg)
 
 ![Figure 2](IMG_2419.jpeg)
