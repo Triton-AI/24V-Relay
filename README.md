@@ -5,3 +5,9 @@ This repository contains the Altium Designer files created for the schematic and
 # DEMO
 
 https://youtube.com/shorts/ltIXgFceDX0
+
+# Board Pictures
+
+![Figure 1](/Users/gabrielbortoni/Downloads/IMG_2417.jpeg)
+
+![Figure 2](/Users/gabrielbortoni/Downloads/IMG_2419.jpeg)
