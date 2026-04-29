@@ -6,8 +6,12 @@ This repository contains the Altium Designer files created for the schematic and
 
 https://youtube.com/shorts/ltIXgFceDX0
 
+# Schematic
+
+![Figure 1](schematic.png)
+
 # Board Pictures
 
-![Figure 1](IMG_2417.jpeg)
+![Figure 2](IMG_2417.jpeg)
 
-![Figure 2](IMG_2419.jpeg)
+![Figure 3](IMG_2419.jpeg)
